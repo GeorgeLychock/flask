@@ -1,0 +1,24 @@
+[
+    {
+        "name": "George's Super Cajun Rub",
+        "author": "george Lychock",
+        "flavor_profile": ["savory", "spicy"],
+        "cuisine": "American",
+        "ingredients": "List of Ingredients",
+        "instructions": "Mix all ingredients in a bowl and add to a shaker",
+        "description":  "I created this recipe based on sandwiches I ordered from a local favorite restaurant that I then tried to duplicate",
+        "date_posted": "07/25/2021",
+        "image_url": "url"
+    },
+    {
+        "name": "Memphis Dry Rub",
+        "author": "george Lychock",
+        "flavor_profile": ["sweet", "spicy"],
+        "cuisine": "American",
+        "ingredients": "List of Ingredients",
+        "instructions": "Mix all ingredients in a bowl and add to a shaker",
+        "description":  "I re-created this recipe based on a spice rub mixture I purchased from Stuart's",
+        "date_posted": "07/25/2021",
+        "image_url": "url"
+    }
+]
