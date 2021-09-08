@@ -6,9 +6,10 @@
         "cuisine": "American",
         "ingredients": "List of Ingredients",
         "instructions": "Mix all ingredients in a bowl and add to a shaker",
-        "description":  "I created this recipe based on sandwiches I ordered from a local favorite restaurant that I then tried to duplicate",
+        "description":  "I tried to replicate this recipe based on sandwiches I ordered from a favorite local restaurant.",
         "date_posted": "07/25/2021",
-        "image_url": "url"
+        "image_url": "../static/img/recipe-georges-super-cajun-rub-02.jpeg",
+        "url": "georges-super-cajun-rub"
     },
     {
         "name": "Memphis Dry Rub",
@@ -19,6 +20,7 @@
         "instructions": "Mix all ingredients in a bowl and add to a shaker",
         "description":  "I re-created this recipe based on a spice rub mixture I purchased from Stuart's",
         "date_posted": "07/25/2021",
-        "image_url": "url"
+        "image_url": "url",
+        "url": "memphis-dry-rub"
     }
 ]
